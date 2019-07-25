@@ -1,0 +1,10 @@
+{
+  "packages": ["./*"],
+  "version": "independent",
+  "command": {
+    "bootstrap": {
+      "concurrency": 8,
+      "ci": false
+    }
+  }
+}
